@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-    Sou desenvolvedor Frontend e sou apaixonado por tecnologia 💻✨
+    Sou Desenvolvedor Fullstack e sou apaixonado por tecnologia 💻✨
   </p>
   
 </div>
