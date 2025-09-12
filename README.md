@@ -118,7 +118,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=henriquenegri&theme=dracula&column=7"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/prof-pokemons/prof-pokemons/main/pokemons/pikachu.gif" alt="Pokémon Andando">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-fighting-game.vercel.app/api/fight?fighter1=ryu&fighter2=ken&theme=dark" alt="Batalha de Sprites">
 </div>
