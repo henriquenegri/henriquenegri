@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2338bdf8&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Negri;Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+e+jogos!&center=true&width=500&height=50">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2338bdf8&lines=Ol%C3%A1%2C+apaixonado+por+criar+soluções+robustas+e+experiências+de+usuário+intuitívas;Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+e+jogos!&center=true&width=500&height=50">
-</div>
+<p>apaixonado por criar soluções robustas e experiências de usuário intuitivas.</p>
   
 </div>
 
