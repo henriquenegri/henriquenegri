@@ -1,30 +1,7 @@
-<div align="center">
-  
-  <h1>
-    👋 Olá, eu sou o <a href="https://www.linkedin.com/in/henrique-de-almeida-negri-390254271/">Henrique Negri</a> 🚀
-  </h1>
-
-  <p><strong>Desenvolvedor Full-Stack</strong> apaixonado por criar soluções robustas e experiências de usuário intuitivas.</p>
-  
-</div>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/henriquenegri">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquenegri&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenegri&theme=dracula&hide_border=false&layout=compact"/>
-  </a>
-</div>
-
----
-
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
-<details>
-  <summary>Clique para expandir</summary>
+<details open>
+  <summary>Clique para expandir/recolher</summary>
   
   <br/>
   
@@ -54,6 +31,8 @@
         <img alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
         <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
         <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+        <img alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
       </td>
     </tr>
     <tr>
@@ -67,10 +46,24 @@
     </tr>
     <tr>
       <td align="center" width="180">
-        <b>Bancos de Dados</b>
+        <b>Bancos de Dados & BaaS</b>
       </td>
       <td>
         <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <img alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+        <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+        <img alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+        <img alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="180">
+        <b>DevOps & Cloud</b>
+      </td>
+      <td>
+        <img alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+        <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
       </td>
     </tr>
      <tr>
@@ -79,24 +72,11 @@
       </td>
       <td>
         <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+        <img alt="NuGet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" />
+        <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+        <img alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
       </td>
     </tr>
   </table>
 </details>
-
----
-
-### 📫 Conecte-se comigo
-
-<div align="center">
-  <a href="https://youtube.com/seu-canal" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/henrique-de-almeida-negri-390254271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:riquenegri11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/henriquenegri/henriquenegri/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
