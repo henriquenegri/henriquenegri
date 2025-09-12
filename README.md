@@ -1,8 +1,8 @@
 <div align="center">
   
-  <h1>
-    👋 Olá, eu sou o <a href="https://www.linkedin.com/in/henrique-de-almeida-negri-390254271/">Henrique Negri</a> 🚀
-  </h1>
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2338bdf8&lines=Ol%C3%A1%2C+eu+sou+o+Henrique+Negri;Desenvolvedor+Full-Stack;Apaixonado+por+tecnologia+e+jogos!&center=true&width=500&height=50">
+</div>
 
   <p><strong>Desenvolvedor Full-Stack</strong> apaixonado por criar soluções robustas e experiências de usuário intuitivas.</p>
   
@@ -117,10 +117,4 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prof-pokemons/prof-pokemons/main/pokemons/pikachu.gif" alt="Pokémon Andando">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-fighting-game.vercel.app/api/fight?fighter1=ryu&fighter2=ken&theme=dark" alt="Batalha de Sprites">
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
