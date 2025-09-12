@@ -113,4 +113,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=footer"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_WAKATIME&theme=dracula&layout=compact" />
+</div>
