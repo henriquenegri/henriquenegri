@@ -114,5 +114,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_WAKATIME&theme=dracula&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueNegri&theme=dracula&layout=compact" />
 </div>
