@@ -6,17 +6,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/henriquenegri">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henriquenegri&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquenegri&theme=dracula&hide_border=false&layout=compact"/>
-  </a>
-</div>
-
----
-
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
 <details open>
