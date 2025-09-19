@@ -32,15 +32,6 @@
 
 ---
 
-## 📈 Status do Personagem
-Backend: ██████████▒▒ 80%
-Frontend: ████████████ 95%
-Mobile: ██████▒▒▒▒▒▒ 50%
-DevOps: ███████▒▒▒▒▒ 65%
-Game XP: 🎮🎮🎮🎮🎮
-
----
-
 ## 🎨 Skills & Tecnologias
 
 <details open>
